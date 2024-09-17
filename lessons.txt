@@ -1,0 +1,6 @@
+GIT EXERCISE: 
+.I understood what Git and GitHub are, 
+.I got a basic understanding of the concept version control 
+.I learnt how to Set up Git on my system 
+.I learnt the differences between Git and GitHub
+.I was able to create a GitHub account and successfully and push to it
